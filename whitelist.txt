@@ -34,3 +34,4 @@
 ||lnkd.in^
 ||linkedinmobileapp.com^
 ||bizographics.com^
+||googleapis.com^
