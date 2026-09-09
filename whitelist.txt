@@ -29,3 +29,8 @@
 ||twimg.com^
 ||periscope.tv^
 ||pscp.tv^
+||linkedin.com^
+||licdn.com^
+||lnkd.in^
+||linkedinmobileapp.com^
+||bizographics.com^
